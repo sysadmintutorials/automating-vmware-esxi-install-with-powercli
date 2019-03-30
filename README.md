@@ -1,13 +1,15 @@
 # Automating a nested VMware ESXi install with Powercli
 
-Date: 30-9-2019
-Version: 1
-Blog: www.sysadmintutorials.com
-Twitter: @systutorials
+## Date: 30-9-2019
+## Version: 1
+## Blog: www.sysadmintutorials.com
+## Twitter: @systutorials
+
+## Description
 
 This PowerCLI script will allow you to perform the installation of a nested VMware ESXi host, have the VM reboot and then perform the configuration of the host.
 
-<IMPORTANT NOTES>
+## Important Notes
   
   1. Make sure you have PowerCLI installed, if you are not sure how to install PowerCLI see this blog post:
   https://thesolving.com/virtualization/how-to-install-and-configure-vmware-powercli-version-10/
